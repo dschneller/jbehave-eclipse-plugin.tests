@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JBehave Eclipse Plugin Tests
+Bundle-SymbolicName: technbolts-jbehave-eclipse-plugin.tests
+Bundle-Version: 1.0.7.qualifier
+Fragment-Host: technbolts-jbehave-eclipse-plugin;bundle-version="1.0.7"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.mockito;bundle-version="1.8.4",
+ org.hamcrest;bundle-version="1.1.0",
+ org.apache.commons.io;bundle-version="2.0.1"
