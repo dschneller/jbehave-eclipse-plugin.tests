@@ -5,6 +5,7 @@ Bundle-SymbolicName: technbolts-jbehave-eclipse-plugin.tests
 Bundle-Version: 1.0.7.qualifier
 Fragment-Host: technbolts-jbehave-eclipse-plugin;bundle-version="1.0.7"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Require-Bundle: org.mockito;bundle-version="1.8.4",
- org.hamcrest;bundle-version="1.1.0",
- org.apache.commons.io;bundle-version="2.0.1"
+Require-Bundle: org.hamcrest;bundle-version="1.1.0",
+ org.apache.commons.io;bundle-version="2.0.1",
+ org.mockito.mockito-all;bundle-version="1.9.0",
+ org.testng;bundle-version="6.5.1"
